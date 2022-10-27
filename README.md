@@ -1,1 +1,2 @@
 # Admin-Dashboard-Project
+This project was created as part of the curriculum for the ODIN project. It is an example of an admin dashboard page. It has no functionality though. The live page may be viewed at https://cimmerian62.github.io/Admin-Dashboard-Project/
